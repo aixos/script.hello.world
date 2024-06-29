@@ -1,4 +1,6 @@
-This is a hello world popup tutorial for Kodi v21 (Omega)
+This is a hello world popup tutorial for Kodi v21 (Omega) 
+
+This script is already compatible with Python 3.0.
 
 It is meant to be used as a guide to making your first Kodi Add-on.
 
