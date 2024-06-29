@@ -1,4 +1,4 @@
-This is a hello world popup tutorial for Kodi.
+This is a hello world popup tutorial for Kodi v21 (Omega)
 
 It is meant to be used as a guide to making your first Kodi Add-on.
 
